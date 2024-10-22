@@ -10,7 +10,7 @@ HTML , CSS and JAVASCRIPT
 
 
 # CONTRIBUTOR :
-ALISHA BHARTI
+Aditya Khevaria
 
 I hope it makes a good intro for anyone interested in chatbots and frontend fundamentals.
 
